@@ -1,0 +1,28 @@
+#contact-form {
+  text-align: end;
+  border: 3px dotted black;
+  padding-bottom: 15px;
+  padding-top: 10px;
+}
+
+#contact-form h3 {
+  text-align: center;
+}
+
+.contact-display {
+  border: 3px solid black;
+  padding-bottom: 20px;
+}
+
+.contact-card {
+  border: 2px dotted grey;
+  box-shadow: 3px 6px 8px;
+  margin-top: 2%;
+}
+
+.contact-card.card-hidden p {
+  display: none;
+}
+.contact-card.card-visible p {
+  display: block;
+}
